@@ -1,2 +1,2 @@
 # GPS-module-with-LPC2148
-hobby project repo
+Interfacing of GPS module with LPC2148 and LCD display.
